@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.Home-con{
+    background-image: url("https://res.cloudinary.com/ds79zalba/image/upload/v1729229932/Image_wopmd2.png");
+    height: 80vh;
+}
+
+.banner-content{
+  color:white; 
+  width: 312px;
+  height: 62px;
+  top: 223px;
+  left: 164px;
+  margin-left: 50px;
+  margin-top: 50px;
+
+}
+
+.super {
+    font-family: "Roboto";
+    font-weight: 400;
+
+}
+
+.description {
+    font-size: 15px;
+}
+
+.bottom-content{
+    background-color: black;
+    color: white;
+}
