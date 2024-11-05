@@ -1,0 +1,36 @@
+.Home-con{
+    background-image: url("https://res.cloudinary.com/ds79zalba/image/upload/v1729229932/Image_wopmd2.png");
+    height: 82vh;
+    filter: brightness(60%); 
+    /* width: 100%; */
+    background-size: cover;
+    background-position: center; 
+   
+}
+.home-data{
+
+    background: transparent;
+}
+
+.banner-content{
+  color:white; 
+  width: 312px;
+  height: 62px;
+  top: 223px;
+  left: 164px;
+  margin-left: 50px;
+  margin-top: 50px;
+
+}
+
+.super {
+    font-family: "Roboto";
+    font-weight: 400;
+   
+    color: white;
+
+}
+
+.description {
+    font-size: 15px;
+}

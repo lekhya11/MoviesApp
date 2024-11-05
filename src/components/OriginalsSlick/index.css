@@ -1,0 +1,99 @@
+/* .main-container1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+  }
+  
+  .slick-container1 {
+    width: 90%;
+    max-width: 1100px;
+    margin-top: 10px;
+  }
+  
+  .slick-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+
+  .logo-image {
+    width: 100%; /* Full width of its container */
+  /*  max-width: 200px; /* Limits image width on larger screens */
+    /*height: auto; /* Maintains aspect ratio */
+    /*max-height: 150px; /* Controls image height */
+    /*object-fit: cover; /* Ensures no distortion */
+    /*border-radius: 10px;
+}
+  
+  /* You can change the CSS color to style the Next and 
+  Previous Arrow buttons according to your project */
+  
+ /* .slick-prev:before,
+  .slick-next:before {
+    color:white;
+  }
+   */
+
+   .main-container1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.slick-container1 {
+    width: 90%;
+    max-width: 1100px;
+    margin-top: 10px;
+}
+
+.slick-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.logo-image1 {
+    width: 100%;              /* Full width of the container */
+    max-width: 180px;          /* Sets a limit on larger screens */
+    height: auto;              /* Maintains the aspect ratio */
+    max-height: 150px;         /* Controls the image height */
+    object-fit: cover;         /* Prevents image distortion */
+    border-radius: 10px;
+}
+
+/* Responsive Image Sizing */
+@media (max-width: 1279px) {
+    .logo-image1 {
+        max-width: 150px;      /* Slightly smaller for tablets */
+        max-height: 130px;
+    }
+}
+
+@media (max-width: 768px) {
+    .logo-image1 {
+        max-width: 120px;      /* Smaller for medium-sized screens */
+        max-height: 100px;
+    }
+}
+
+@media (max-width: 480px) {
+    .logo-image1 {
+        max-width: 100px;      /* Smallest for mobile screens */
+        max-height: 80px;
+    }
+}
+
+/* Slick Arrow Color */
+.slick-prev:before,
+.slick-next:before {
+    color: white;
+}
